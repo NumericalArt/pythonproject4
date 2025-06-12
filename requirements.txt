@@ -1,0 +1,12 @@
+requests~=2.32.3
+PyMuPDF
+pandas~=2.2.3
+Pillow~=11.2.1
+striprtf~=0.0.29
+strip_markdown
+openpyxl~=3.1.5
+pytesseract~=0.3.13
+python-dotenv~=1.1.0
+openai~=1.75.0
+Flask~=3.0.0
+gunicorn~=21.2.0
