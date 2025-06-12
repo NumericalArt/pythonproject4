@@ -1,0 +1,90 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Distribution / build
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and reports
+*.log
+*.json
+response.json
+session_extract.json
+error.log
+
+# Data directories
+downloaded_files/
+downloads/
+images/
+extracted_images/
+processed_documents/
+tables/
+media_for_processing/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+*.env
+config.env
+config.env.template.local
+
+# Python
+*$py.class
+.Python
+develop-eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+
+# Project specific
+fail_list.txt
+last_message_no.txt
+
+# Document storage directories
+downloaded_files__zip__rar/
+processed_documents_*/
+media_for_processing/
+
+# Environment configuration
+.env.local
+.env.production
+.env.development
